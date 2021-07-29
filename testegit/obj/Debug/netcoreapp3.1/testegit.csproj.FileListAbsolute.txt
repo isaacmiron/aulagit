@@ -1,0 +1,13 @@
+C:\Users\isaac\Desktop\TRABALHO2\X-PROJECT\Estudo\Modulo 2\git\testegit\testegit\bin\Debug\netcoreapp3.1\testegit.exe
+C:\Users\isaac\Desktop\TRABALHO2\X-PROJECT\Estudo\Modulo 2\git\testegit\testegit\bin\Debug\netcoreapp3.1\testegit.deps.json
+C:\Users\isaac\Desktop\TRABALHO2\X-PROJECT\Estudo\Modulo 2\git\testegit\testegit\bin\Debug\netcoreapp3.1\testegit.runtimeconfig.json
+C:\Users\isaac\Desktop\TRABALHO2\X-PROJECT\Estudo\Modulo 2\git\testegit\testegit\bin\Debug\netcoreapp3.1\testegit.runtimeconfig.dev.json
+C:\Users\isaac\Desktop\TRABALHO2\X-PROJECT\Estudo\Modulo 2\git\testegit\testegit\bin\Debug\netcoreapp3.1\testegit.dll
+C:\Users\isaac\Desktop\TRABALHO2\X-PROJECT\Estudo\Modulo 2\git\testegit\testegit\bin\Debug\netcoreapp3.1\testegit.pdb
+C:\Users\isaac\Desktop\TRABALHO2\X-PROJECT\Estudo\Modulo 2\git\testegit\testegit\obj\Debug\netcoreapp3.1\testegit.csprojAssemblyReference.cache
+C:\Users\isaac\Desktop\TRABALHO2\X-PROJECT\Estudo\Modulo 2\git\testegit\testegit\obj\Debug\netcoreapp3.1\testegit.AssemblyInfoInputs.cache
+C:\Users\isaac\Desktop\TRABALHO2\X-PROJECT\Estudo\Modulo 2\git\testegit\testegit\obj\Debug\netcoreapp3.1\testegit.AssemblyInfo.cs
+C:\Users\isaac\Desktop\TRABALHO2\X-PROJECT\Estudo\Modulo 2\git\testegit\testegit\obj\Debug\netcoreapp3.1\testegit.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\TRABALHO2\X-PROJECT\Estudo\Modulo 2\git\testegit\testegit\obj\Debug\netcoreapp3.1\testegit.dll
+C:\Users\isaac\Desktop\TRABALHO2\X-PROJECT\Estudo\Modulo 2\git\testegit\testegit\obj\Debug\netcoreapp3.1\testegit.pdb
+C:\Users\isaac\Desktop\TRABALHO2\X-PROJECT\Estudo\Modulo 2\git\testegit\testegit\obj\Debug\netcoreapp3.1\testegit.genruntimeconfig.cache
