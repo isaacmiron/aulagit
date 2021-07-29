@@ -9,6 +9,9 @@ namespace testegit
             Console.WriteLine("bom dia!");
             Console.ReadLine();
             Console.WriteLine("Nice!");
+            Console.WriteLine("Vamos trabalhar?");
+            Console.ReadLine();
+            Console.WriteLine("Ok");
 
         }
     }
